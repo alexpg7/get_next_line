@@ -1,5 +1,5 @@
 # :eye: get_next_line ![Static Badge](https://img.shields.io/badge/Barcelona-black?style=for-the-badge&logo=42&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/C-grey?style=flat)
+![Static Badge](https://img.shields.io/badge/c-grey?style=flat&logo=c)
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=flat)
 
 A function to read file descriptors' content. 
